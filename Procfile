@@ -1,0 +1,1 @@
+web: java -jar target/json-to-XML-0.0.1-SNAPSHOT.jar
